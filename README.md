@@ -1,3 +1,5 @@
+# Tetris
+
 Controls:
 Arrow left = move left
 Arrow right = move right

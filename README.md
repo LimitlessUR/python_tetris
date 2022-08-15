@@ -1,5 +1,7 @@
 # Tetris
-Get a solid line of blocks 
+
+Get a solid line of blocks to align horizontally to score points and eliminate blocks 
+
 Controls:
 Arrow left = move left
 Arrow right = move right

@@ -2,7 +2,7 @@
 
 Get a solid line of blocks to align horizontally to score points and eliminate blocks. Good luck!!
 
-Run the 
+Run the main.py file with the command `python main.py` 
 
 Controls:
 Arrow left = move left

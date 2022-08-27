@@ -2,7 +2,7 @@
 
 Get a solid line of blocks to align horizontally to score points and eliminate blocks. Good luck!!
 
-Run the main.py file with the command `python main.py` Mac Users run `python3 main.py` 
+In terminal run the main.py file with the command `python main.py` Mac Users run `python3 main.py` 
 
 Controls:
 Arrow left = move left

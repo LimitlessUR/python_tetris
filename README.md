@@ -1,6 +1,8 @@
 # Tetris
 
-Get a solid line of blocks to align horizontally to score points and eliminate blocks 
+Get a solid line of blocks to align horizontally to score points and eliminate blocks. Good luck!!
+
+Run the 
 
 Controls:
 Arrow left = move left
